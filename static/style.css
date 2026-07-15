@@ -40,10 +40,7 @@
      text-decoration: solid;
  }
 
- .text2 {
-     color: aliceblue;
- }
-
+ 
  .spacing {
      word-spacing: 10px;
  }
@@ -159,4 +156,11 @@
   -webkit-transition: 0.6s;
   -webkit-transform-style: preserve-3d;
   position: relative;
+}
+.card-text{
+  width: 200px;
+}
+.bi-whatsapp{
+  color: rgb(1, 226, 1);
+  
 }
