@@ -50,7 +50,7 @@
  }
 
  .sizeimage {
-     height: 250px;
+     height:fit-content
  }
  .doctor-img{
     height:250px;
