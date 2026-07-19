@@ -164,15 +164,3 @@
   color: rgb(1, 226, 1);
   
 }
-.imagebg{
-  background-image: url("images/hospitalimg.png");
-   background-size: cover;      /* Makes the image cover the entire section */
-  background-position: center; /* Centers the image */
-  background-repeat: no-repeat;
-  height: 500px;               /* Set the section height */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: white;
-}
